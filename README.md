@@ -1,4 +1,3 @@
-
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
@@ -12,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=rohanroy1221&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/rohanroy1221?style=for-the-badge&logo=github&color=181717" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/rohanroy1221?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration"/>
 
 </div>
 
@@ -85,7 +84,12 @@ const rohan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohanroy1221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<a href="https://github.com/rohanroy1221?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0e75b6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/rohanroy1221?tab=followers"><img src="https://img.shields.io/github/followers/rohanroy1221?style=for-the-badge&logo=github&label=Followers&color=8957e5" /></a>
+<img src="https://img.shields.io/badge/Commits-Daily%20Grind-2ea043?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-f97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/Always-Learning-ec4899?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Coffee-%E2%88%9E-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 
 </div>
 
@@ -95,7 +99,7 @@ const rohan = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanroy1221&theme=tokyo-night&hide_border=true&area=true&custom_title=Rohan's%20Contribution%20Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/00F7FF/rohanroy1221" alt="Rohan's GitHub contribution chart" width="100%"/>
 
 </div>
 
